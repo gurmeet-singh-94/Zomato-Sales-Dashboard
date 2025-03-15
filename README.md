@@ -1,2 +1,2 @@
-# Zomato-Sales-Dashboard
-###### This is a Power-BI Dashboard of Zomato in which we make insights of Sales.
+### Zomato Restaurant Analysis
+###### This is a Power-BI Project of Zomato Restaurant.
